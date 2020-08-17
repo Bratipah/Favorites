@@ -4,7 +4,7 @@ div{
     font-size: medium;
     color:black;
     display: block;
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
     background-image: url("/my-images/tim-mossholder-8R-mXppeakM-unsplash.jpg");
     height: 200px;
     background-position: center;
