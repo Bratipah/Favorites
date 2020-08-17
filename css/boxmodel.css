@@ -5,7 +5,7 @@ div{
     color:black;
     display: block;
     /* word-wrap: break-word; */
-    background-image: url("/my-images/tim-mossholder-8R-mXppeakM-unsplash.jpg");
+    background-image: url("../my-images/tim-mossholder-8R-mXppeakM-unsplash.jpg");
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
@@ -13,12 +13,6 @@ div{
     position: relative;
 }
 .boxmodel{
-    /*background-image: url("/my-images/joshua-coleman-8V4y-XXT3MQ-unsplash.jpg");
-    height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;*/
     padding: 2px;
     width: 530px;
     height: 220px;
