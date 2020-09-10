@@ -23,15 +23,15 @@ h3{
     padding: 5px;
 }
 body{
-    background-image: url("./my-images/joshua-coleman-8V4y-XXT3MQ-unsplash.jpg");
+    background-image: url("../my-images/joshua-coleman-8V4y-XXT3MQ-unsplash.jpg");
     background-color:white;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position:relative;
     font-size: medium;
-    font-family: sans-serif;
+    font-family:sans-serif;
     line-height: 2px;
 }
 p{
